@@ -1,0 +1,31 @@
+.header {
+  display: 'flex';
+  align-items: 'center';
+  background-color: #fff;
+  color: #487bd7;
+  font-size: 16px;
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+
+
+.logo {
+  margin-right: 8px;
+  margin-top: -2px;
+}
+
+.user {
+  float: right;
+  font-weight: bolder;
+  font-size: 16px;
+}
+
+.innerSection {
+  height: calc(100vh - 64px);
+}
+
+.contentSection {
+  padding: 32px;
+}
+
